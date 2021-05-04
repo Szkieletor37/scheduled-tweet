@@ -1,5 +1,6 @@
 import { stripIndent } from 'common-tags';
 
+
 export interface Schedule {
     date: string;
     text: string;
